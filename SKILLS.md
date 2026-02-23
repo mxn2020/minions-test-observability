@@ -1,6 +1,12 @@
 ---
 name: minions-test-observability
-description: Trace capture, tool call logs, reasoning timings, and latency breakdowns
+id: OC-0166
+version: 1.0.0
+description: "Trace capture, tool call logs, reasoning timings, and latency breakdowns"
+category: dev-tools
+subcategory: testing
+tags: ["minion", "dev-tools", "testing"]
+comments:
 ---
 
 # minions-test-observability — Agent Skills
