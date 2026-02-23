@@ -1,6 +1,6 @@
 {
   "name": "@minions-test-observability/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Trace capture, tool call logs, reasoning timings, and latency breakdowns",
   "type": "module",
   "main": "./dist/index.js",
