@@ -1,0 +1,8 @@
+name: "@minions-test-observability/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-test-observability-workspace
+description: "CLI for minions-test-observability — Trace capture, tool call logs, reasoning timings, and latency breakdowns"
+priority: high
+deploy_url: null
+tags: null

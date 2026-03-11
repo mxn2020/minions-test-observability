@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/@minions-test-observability/sdk/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # @minions-test-observability/sdk
 
 Trace capture, tool call logs, reasoning timings, and latency breakdowns

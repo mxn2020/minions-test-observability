@@ -1,0 +1,15 @@
+name: minions-test-observability-workspace
+project_scope: main
+project_type: monorepo
+description: "Trace capture, tool call logs, reasoning timings, and latency breakdowns"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-test-observability"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, test, observability]
+notes: null
+id: 6a8e5cae-ec80-416a-a5ce-7f78ea09f5e4
