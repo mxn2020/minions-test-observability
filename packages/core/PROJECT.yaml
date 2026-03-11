@@ -6,3 +6,4 @@ description: "Trace capture, tool call logs, reasoning timings, and latency brea
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
