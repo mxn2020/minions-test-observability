@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.0](https://github.com/mxn2020/minions-test-observability/compare/v0.1.0...v0.2.0) (2026-03-12)
+
+
+### Features
+
+* enrich SKILLS metadata and registry sync ([ccc188a](https://github.com/mxn2020/minions-test-observability/commit/ccc188a95b3fb80a403823424359707ad08ca1f0))
+
+
+### Bug Fixes
+
+* website UI tweaks and add OSS configuration ([50ad718](https://github.com/mxn2020/minions-test-observability/commit/50ad7187598ab83c17cc4f6f15a44727d9b1ee16))
+
+
+### Documentation
+
+* update SKILLS.md with context sections ([ac17bc2](https://github.com/mxn2020/minions-test-observability/commit/ac17bc2c7c9ff48d70d0331fec66de5a4a7695b7))
+
+
+### Miscellaneous
+
+* add .project/ identity files (PROJECT, ACCOUNT, ROADMAP, IDEAS) ([87b38e0](https://github.com/mxn2020/minions-test-observability/commit/87b38e0a081532e791cb466b15d258e1891132a5))
+* bump minions-sdk to v0.2.3 and fix TS ([7861cf7](https://github.com/mxn2020/minions-test-observability/commit/7861cf7726091cfcf50a3b673d202d6ebea2f0a1))
+* compliance audit - fix category, tags, and add stop script ([34e1207](https://github.com/mxn2020/minions-test-observability/commit/34e1207d1bceb063df5a44b2d4a42ab946fe5985))
+* fix nested sub-project categories to valid compliance values ([e2294d3](https://github.com/mxn2020/minions-test-observability/commit/e2294d30186efe4a42304ab77f5c1161048440b3))
+
 ## [0.1.0] - 2026
 
 ### Features

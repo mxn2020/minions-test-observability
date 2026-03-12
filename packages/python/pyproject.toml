@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-test-observability"
-version = "0.1.0"
+version = "0.2.0"
 description = "Trace capture, tool call logs, reasoning timings, and latency breakdowns"
 readme = "README.md"
 license = { text = "MIT" }
